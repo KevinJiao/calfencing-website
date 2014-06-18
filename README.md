@@ -3,7 +3,7 @@ Cal Fencing website total overhaul. I don't really know web dev (yet), this will
 To-do
 -----
 * center things
-* add padding to navbar. Changing to "fixed" doesn't work because it kills the responsiveness.
+* add padding to navbar. 
 * Get photos for home and team carousels, and probably a better one for the header
 * Change CSS so there is a max width of text. Looks weird when maximized on a large screen.
 * Add social media thingies
