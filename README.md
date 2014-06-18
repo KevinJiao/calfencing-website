@@ -8,4 +8,4 @@ To-do
 * Change CSS so there is a max width of text. Looks weird when maximized on a large screen.
 * Add social media thingies
 * Add custom 404 page
-* Figure out how to do announcements/blog
+* Figure out how to do announcements/blog (Integrate a wordpress blog?)

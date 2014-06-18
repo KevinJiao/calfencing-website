@@ -53,6 +53,57 @@
       <p>The DeCal returns in Fall 2015! It will be listed on the <a href="http://www.decal.org/courses">DeCals</a> page</p>
       <p><a href="http://www.decal.org/courses/2896"> Click Here</a> for last semester's page. 
 
+      <h2>Photos</h2>
+
+      <h3>Spring 2014</h3>
+      <!--  Carousel - consult the Twitter Bootstrap docs at
+      http://twitter.github.com/bootstrap/javascript.html#carousel -->
+      <div id="this-carousel-id" class="carousel slide"><!-- class of slide for animation -->
+        <div class="carousel-inner">
+          <div class="item active"><!-- class of active since it's the first item -->
+            <img src="imgs/decal_sp2014.png" alt="" />
+            <div class="carousel-caption">
+              <p>Students and instructors, final meeting (minus Arami)</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="http://placehold.it/1200x480" alt="" />
+            <div class="carousel-caption">
+              <p>Where's that picture with Arami-Godzilla?</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="http://placehold.it/1200x480" alt="" />
+            <div class="carousel-caption">
+              <p>More photos</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="http://placehold.it/1200x480" alt="" />
+            <div class="carousel-caption">
+              <p>More photos/p>
+            </div>
+          </div>
+        </div><!-- /.carousel-inner -->
+        <!--  Next and Previous controls below
+              href values must reference the id for this carousel -->
+          <a class="carousel-control left" href="#this-carousel-id" data-slide="prev">&lsaquo;</a>
+          <a class="carousel-control right" href="#this-carousel-id" data-slide="next">&rsaquo;</a>
+      </div><!-- /.carousel -->
+      <script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
+      <script>
+        $(document).ready(function(){
+          $('.carousel').carousel();
+        });  
+      </script>
+      <script>
+        $(document).ready(function(){
+          $('.carousel').carousel({
+            interval: 2000
+          });
+        });
+      </script>
+
       <hr>
 
       <footer>
