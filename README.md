@@ -19,3 +19,4 @@ To-do
 * Add social media thingies
 * Add custom 404 page
 * double check responsive elements (navbar is not responsive for small devices?)
+* should we be posting photos on flickr or something? they are currently just on the personal fb page of whoever took them
