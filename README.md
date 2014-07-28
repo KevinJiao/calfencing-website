@@ -2,6 +2,8 @@ Cal Fencing website overhaul.
 
 To-do
 -----
+* RESPONSIVE NAVBAR
+
 * Content
 	* home page
 		* select photos for header and front slideshow
@@ -17,5 +19,4 @@ To-do
 * center things
 * Add social media thingies
 * Add custom 404 page
-* double check responsive elements (navbar is not responsive for small devices?)
 * should we be posting photos on flickr or something? they are currently just on the personal fb page of whoever took them
