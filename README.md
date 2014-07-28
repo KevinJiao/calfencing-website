@@ -4,17 +4,16 @@ To-do
 -----
 * Content
 	* home page
-		* fix carousel / add photos
+		* select photos for header and front slideshow
 	* contact page
 	* team page
 		* more photos / add headshots?
-		* write blurb for assistant coach
-	* decal page
-		* more photos
-		* write blurb
 
+
+* flickr embeds http://flickrit.com/index.php
 * better header picture
 * Figure out how to do announcements/blog (Integrate a wordpress blog?)
+	* http://wordpress.org/support/topic/cutenews-to-wordpress
 * center things
 * Add social media thingies
 * Add custom 404 page
