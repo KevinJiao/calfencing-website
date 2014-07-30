@@ -2,21 +2,15 @@ Cal Fencing website overhaul.
 
 To-do
 -----
-* RESPONSIVE NAVBAR
 
 * Content
-	* home page
-		* select photos for header and front slideshow
-	* contact page
-	* team page
-		* more photos / add headshots?
+	* home page - aesthetics
+	* about page - clear up practice req wording 
+	* contact page - set up club email address?
+	* team page description
 
-
+* extract guide videos and text
 * flickr embeds http://flickrit.com/index.php
-* better header picture
-* Figure out how to do announcements/blog (Integrate a wordpress blog?)
-	* http://wordpress.org/support/topic/cutenews-to-wordpress
-* center things
+* setup wordpress / migrate cutenews posts
 * Add social media thingies
 * Add custom 404 page
-* should we be posting photos on flickr or something? they are currently just on the personal fb page of whoever took them
