@@ -9,4 +9,3 @@ To-do
 * gif-ify the guide videos
 * http://www.gregfreeman.org/2011/how-to-import-posts-from-a-text-file-into-wordpress/
 * http://codex.wordpress.org/Tools_Import_SubPanel
-* flickr embeds http://flickrit.com/index.php
