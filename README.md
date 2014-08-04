@@ -5,12 +5,11 @@ To-do
 
 * Content
 	* home page - aesthetics
-	* about page - clear up practice req wording 
-	* contact page - set up club email address?
-	* team page description
 
 * extract guide videos and text
 * flickr embeds http://flickrit.com/index.php
 * setup wordpress / migrate cutenews posts
 * Add social media thingies
 * Add custom 404 page
+* http://www.gregfreeman.org/2011/how-to-import-posts-from-a-text-file-into-wordpress/
+* http://codex.wordpress.org/Tools_Import_SubPanel
