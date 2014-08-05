@@ -1,5 +1,5 @@
 *.mov
-
+news/
 
 # Compiled source #
 ###################
@@ -9,6 +9,7 @@
 *.exe
 *.o
 *.so
+*~
  
 # Packages #
 ############
@@ -28,6 +29,7 @@
 *.log
 *.sql
 *.sqlite
+wp-config.php
  
 # OS generated files #
 ######################
