@@ -4,4 +4,5 @@ Everything is just standard twitter bootstrap. CSS for jumbotron has been modifi
 
 To-do
 -----
-* gif-ify the guide videos
+* Saber and Epee guide sections (write these, or post actually helpful links)
+* Add google analytics
